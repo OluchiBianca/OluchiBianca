@@ -9,7 +9,7 @@ Turning raw data into insights that support better business decisions.
 
 ---
 
-## 👩🏽‍💻 About Me
+##  About Me
 
 I am a Data Analyst passionate about transforming raw data into meaningful insights that drive decision-making across healthcare, marketing, sales, operations, and finance.
 
@@ -31,7 +31,7 @@ I am currently building portfolio projects focused on practical business problem
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <div style="border-left:4px solid #b08d57; padding-left:12px;">
 
@@ -44,7 +44,9 @@ I am currently building portfolio projects focused on practical business problem
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau" />
 </p>
-
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 ### Databases & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
@@ -66,7 +68,7 @@ I am currently building portfolio projects focused on practical business problem
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### 🏥 Hospital Readmission Risk Analysis  
 **Tools:** Python, Pandas, Matplotlib  
@@ -107,7 +109,7 @@ Evaluated marketing campaign effectiveness by measuring ROI, engagement, and con
 
 ---
 
-## 📈 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -127,7 +129,7 @@ width="70%"
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <div align="center" style="background-color:#f7f2e9; padding:15px; border-radius:12px; border:1px solid #e6d7c3;">
 
@@ -147,7 +149,7 @@ width="70%"
 
 <div align="center">
 
-⭐ <i style="color:#8b6f47;">Always learning, building, and turning data into decisions.</i>
+ <i style="color:#8b6f47;">Always learning, building, and turning data into decisions.</i>
 
 </div>
 
